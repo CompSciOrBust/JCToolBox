@@ -43,8 +43,9 @@ SOURCES		:=	source
 DATA		:=	data
 INCLUDES	:=	include
 APP_AUTHOR := CompSciOrBust
-APP_VERSION := 0.1 Alpha POC
-#ROMFS	:=	romfs
+APP_VERSION := 0.2 Alpha
+ROMFS	:=	romfs
+APP_TITLE := JC Toolbox
 
 #---------------------------------------------------------------------------------
 # options for code generation
